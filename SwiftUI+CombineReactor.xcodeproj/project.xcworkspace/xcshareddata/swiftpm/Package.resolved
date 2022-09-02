@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "binder",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ilendemli/Binder.git",
+      "state" : {
+        "revision" : "74ff5144873178711ce9ccccb9c3808de714f304",
+        "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "combineext",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/CombineCommunity/CombineExt.git",
+      "state" : {
+        "revision" : "aaf1a0981c05360000af972473034cb952be4ca0",
+        "version" : "1.8.0"
+      }
+    },
+    {
+      "identity" : "combinereactor",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/wotjd/CombineReactor.git",
+      "state" : {
+        "branch" : "feature/swiftui",
+        "revision" : "a57ef7fe5a46175ca9ecc78dad74e3251177ded2"
+      }
+    },
+    {
+      "identity" : "weakmaptable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactorKit/WeakMapTable.git",
+      "state" : {
+        "revision" : "cb05d64cef2bbf51e85c53adee937df46540a74e",
+        "version" : "1.2.1"
+      }
+    }
+  ],
+  "version" : 2
+}
